@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this resource in your projects, please cite the following paper."
+title: "FrameRef: A Framing Dataset and Simulation Testbed for Modeling Bounded Rational Information Health"
+authors:
+  - family-names: "De Lima"
+    given-names: "Victor"
+  - family-names: "Liu"
+    given-names: "Jiqun"
+  - family-names: "Yang"
+    given-names: "Grace Hui"
+
+
+preferred-citation:
+  type: misc
+  title: "FrameRef: A Framing Dataset and Simulation Testbed for Modeling Bounded Rational Information Health"
+  authors:
+  - family-names: "De Lima"
+    given-names: "Victor"
+  - family-names: "Liu"
+    given-names: "Jiqun"
+  - family-names: "Yang"
+    given-names: "Grace Hui"
+  year: 2025
+  doi: "10.48550/arXiv.2602.15273"
+  url: "https://arxiv.org/abs/2602.15273"
+  publisher: "arXiv"

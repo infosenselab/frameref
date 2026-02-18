@@ -66,3 +66,19 @@ paths:
 - Evaluation logic and metrics are implemented in `information_health/evaluation/`.
 - Scripts for running trajectories and evaluating them are included here.
 
+
+### Citing FrameRef
+
+If you use this resource in your projects, please cite the following paper.
+
+
+```bibtex
+@misc{De_Lima_FrameRef_A_Framing_2025,
+author = {De Lima, Victor and Liu, Jiqun and Yang, Grace Hui},
+doi = {10.48550/arXiv.2602.15273},
+title = {{FrameRef: A Framing Dataset and Simulation Testbed for Modeling Bounded Rational Information Health}},
+url = {https://arxiv.org/abs/2602.15273},
+year = {2025}
+}
+```
+
